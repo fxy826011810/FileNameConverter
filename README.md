@@ -1,1 +1,3 @@
 # FileNameConverter
+
+用于批量更改IDM下载的视频文件名字。视频下载是使用Bilibili Evolved导出的.ef2文件
